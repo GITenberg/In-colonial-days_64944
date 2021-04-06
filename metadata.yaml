@@ -10,6 +10,9 @@ contributor:
     deathdate: 1923
     gutenberg_agent_id: '6202'
     url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: archival
+  image_path: 64944-h/images/cover.jpg
 creator:
   author:
     agent_name: Hawthorne, Nathaniel
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28
     wikipedia: https://en.wikipedia.org/wiki/Nathaniel_Hawthorne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64944#In-colonial-days
 gutenberg_issued: '2021-03-28'
 gutenberg_type: Text
 identifiers:
