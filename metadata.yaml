@@ -1,0 +1,40 @@
+_repo: In-colonial-days_64944
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    deathdate: 1923
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: https://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: ''
+gutenberg_issued: '2021-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64944'
+  lccn: 06029091
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Province House (Boston, Mass.) -- Fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- !lcsh 'Massachusetts -- History -- Colonial period, ca. 1600-1775 -- Fiction'
+- GITenberg
+tableOfContents: Howe's masquerade -- Edward Randolph's portrait -- Lady Eleanore's
+  mantle -- Old Esther Dudley.
+title: In colonial days
+url: http://www.gutenberg.org/ebooks/64944
